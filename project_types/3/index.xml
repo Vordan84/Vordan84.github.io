@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>3 on René Schmidt - Game Programmer</title>
+    <link>http://www.vordan.de/project_types/3/</link>
+    <description>Recent content in 3 on René Schmidt - Game Programmer</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2017 René Schmidt</copyright>
+    <lastBuildDate>Tue, 01 Aug 2006 00:00:00 +0000</lastBuildDate>
+    <atom:link href="/project_types/3/" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>A.M.O.C. - GC 2006 Demo</title>
+      <link>http://www.vordan.de/portfolio_project/amoc_gc2006/</link>
+      <pubDate>Tue, 01 Aug 2006 00:00:00 +0000</pubDate>
+      
+      <guid>http://www.vordan.de/portfolio_project/amoc_gc2006/</guid>
+      <description>
+
+&lt;h3 id=&#34;credits&#34;&gt;Credits&lt;/h3&gt;
+
+&lt;p&gt;&lt;em&gt;Developed by Team AMOC&lt;/em&gt;&lt;br /&gt;
+Alexander Maderek&lt;br /&gt;
+Benjamin Klüter&lt;br /&gt;
+Claudius Dreyer&lt;br /&gt;
+Matthias Koenig&lt;br /&gt;
+Patrick Schindler&lt;br /&gt;
+René Schmidt&lt;br /&gt;
+Simon Trümpler&lt;/p&gt;
+
+&lt;p&gt;This project was realized in the context of the 3D Programming course.&lt;br /&gt;
+&amp;copy; GAMES ACADEMY&amp;trade;&lt;br /&gt;
+All rights reserved.&lt;br /&gt;
+&lt;a href=&#34;http://www.games-academy.de&#34; target=&#34;_blank&#34;&gt;www.games-academy.de&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>A.M.O.C. - GC 2005 Demo</title>
+      <link>http://www.vordan.de/portfolio_project/amoc_gc2005/</link>
+      <pubDate>Mon, 01 Aug 2005 00:00:00 +0000</pubDate>
+      
+      <guid>http://www.vordan.de/portfolio_project/amoc_gc2005/</guid>
+      <description>
+
+&lt;h3 id=&#34;system-requirements&#34;&gt;System Requirements&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;OS&lt;/strong&gt;: Windows XP, Vista, 7&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;CPU&lt;/strong&gt;: 2.0 Ghz&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;RAM&lt;/strong&gt;: 1 GB&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Graphics&lt;/strong&gt;: NVidia Geforce 6 Series or better, ATI Radeon 1600 or better (Your graphics card must support shader model 2.0)&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;HDD&lt;/strong&gt;: 100 MB&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Input&lt;/strong&gt;: Keyboard, Mouse&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;DirectX&lt;/strong&gt;: 9.0&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&#34;installation&#34;&gt;Installation&lt;/h3&gt;
+
+&lt;p&gt;Unpack the ZIP archive you have downloaded. Double-click amoc_gc05_setup.exe and follow the instructions provided by the setup program.&lt;/p&gt;
+
+&lt;h3 id=&#34;credits&#34;&gt;Credits&lt;/h3&gt;
+
+&lt;p&gt;&lt;em&gt;Developed by Team AMOC&lt;/em&gt;&lt;br /&gt;
+Alexander Maderek&lt;br /&gt;
+Benjamin Klüter&lt;br /&gt;
+Claudius Dreyer&lt;br /&gt;
+Matthias Koenig&lt;br /&gt;
+Patrick Schindler&lt;br /&gt;
+René Schmidt&lt;br /&gt;
+Simon Trümpler&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;Voice Talent&lt;/em&gt;&lt;br /&gt;
+Claudia Jakobshagen&lt;/p&gt;
+
+&lt;p&gt;This project was realized in the context of the 3D Programming course.&lt;br /&gt;
+&amp;copy; GAMES ACADEMY&amp;trade;&lt;br /&gt;
+All rights reserved.&lt;br /&gt;
+&lt;a href=&#34;http://www.games-academy.de&#34; target=&#34;_blank&#34;&gt;www.games-academy.de&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
